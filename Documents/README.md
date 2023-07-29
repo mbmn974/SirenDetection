@@ -4,9 +4,9 @@ Fonctionnement et utilisation du système de détection automatique de sirène d
 		
 -Description des programmes C++ Arduino pour
 
-   _enregistrer des sons à partir du microphone de la carte Arduino RP2040
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_enregistrer des sons à partir du microphone de la carte Arduino RP2040
 
-   _traiter un signal audio et faire des prédictions à partir d'une bibliothèque Edge Impulse implémentant un modèle d'apprentissage profond
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_traiter un signal audio et faire des prédictions à partir d'une bibliothèque Edge Impulse implémentant un modèle d'apprentissage profond
 
 -Schéma représentant le fonctionnement de la carte Arduino lors de la tâche de détection de sirène
 		
